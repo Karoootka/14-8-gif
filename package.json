@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Karoootka/14-8-gif#readme",
   "devDependencies": {
+    "babel-polyfill": "^6.26.0",
     "http-server": "^0.11.1"
   },
   "dependencies": {
